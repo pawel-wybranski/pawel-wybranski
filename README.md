@@ -27,10 +27,15 @@ Przez lata pracowałem w sprzedaży B2B, więc zaczynam od pytania, co ma się p
 
 n8n · Ollama (lokalne LLM) · REST API · Webhooki · Telegram · Gmail · Google Calendar · Google Apps Script · JavaScript (Code node)
 
+### Certyfikaty
+
+- **n8n Essentials: Your First Workflows (N8N101)**, n8n Academy, 11.2026
+- Praktyczny kurs z wykorzystania AI w pracy zawodowej: modele AI, n8n, Make, Zapier (52 h), 11.2026
+
 ### Kontakt
 
 Szukam pracy zdalnej i zleceń przy automatyzacji. Napisz na **[LinkedIn](https://www.linkedin.com/in/pawe%C5%82-wybra%C5%84ski-ai/)**.
 
 ---
 
-**EN:** I build AI-powered process automations in n8n: email triage, reports, alerts and API integrations, with local LLMs (Ollama) so data stays private. Background in B2B sales, so I start from the business problem. Open to remote work and freelance projects. See my [portfolio](https://github.com/pawel-wybranski/n8n-portfolio) or reach out on [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-wybra%C5%84ski-ai/).
+**EN:** I build AI-powered process automations in n8n: email triage, reports, alerts and API integrations, with local LLMs (Ollama) so data stays private. Background in B2B sales, so I start from the business problem. Certified: n8n Essentials (n8n Academy, 2026). Open to remote work and freelance projects. See my [portfolio](https://github.com/pawel-wybranski/n8n-portfolio) or reach out on [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-wybra%C5%84ski-ai/).
